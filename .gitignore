@@ -1,0 +1,5 @@
+fast_exec/*/.terraform.lock.hcl
+fast_exec/*/terraform.tfstate.backup
+fast_exec/*/locals.tf
+fast_exec/*/terraform.tfstate
+fast_exec/*/.terraform
